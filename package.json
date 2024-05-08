@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@next/font": "^13.4.4",
-    "framer-motion": "^10.18.0",
+    "framer-motion": "^11.1.9",
     "jquery": "^3.7.1",
     "next": "^13.5.6",
     "radium": "^0.26.2",
@@ -60,7 +60,7 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
     "react-router-dom": "^6.23.0",
-    "react-slick-carousel": "^0.14.0",
+    "react-slick-carousel": "^0.14.9",
     "react-tsparticles": "^2.9.3",
     "swiper": "^9.4.0",
     "tailwind-scrollbar": "^3.0.4",
